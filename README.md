@@ -1,5 +1,5 @@
-##This project is by Couersera and IBM. 
-##Python Project for Data Engineering
+# Python Project for Data Engineering
+## This project is by Coursera and IBM. 
 
 This project uses requests and beautifulsoup for web scraping a web page to get the 10 top banks.
 We save the information using pandas and transform it using numpy.
