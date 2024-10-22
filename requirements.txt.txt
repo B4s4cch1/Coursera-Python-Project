@@ -1,4 +1,0 @@
-pip install numpy
-pip install pandas
-pip install datetime
-pip install bs4
